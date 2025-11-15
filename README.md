@@ -1,4 +1,4 @@
-x.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
+```Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands```
 NAME: R NANDHANA
 REG NUMBER: 212223040124
 Aim:
@@ -101,6 +101,7 @@ Kernel manages communication between hardware and software.
 Commands are case-sensitive.
 Commands:
 1) ls Command
+   
    <img width="855" height="68" alt="image" src="https://github.com/user-attachments/assets/152a3fb6-0cb6-4466-8fc5-e7975d941ed1" />
 
 The ls command is used to display a list of content of a directory.
